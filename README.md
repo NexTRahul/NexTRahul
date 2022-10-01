@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)]
+![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)
 
 <h1 align="center">Hi 👋, I'm Rahul Paul</h1>
 <h3 align="center">A passionate frontend developer from Kolkata,India</h3>
@@ -10,9 +10,9 @@
 
 - 💬 Ask me about **HTML, CSS, React.js, Node.js**
 
-- 📫 How to reach me **ahulpaul0009@gmail.com**
+- 📫 How to reach me **rahulpaul0009@gmail.com**
 
-- ⚡ Fun fact **Coding is Fun**
+- ⚡ Fun fact **I hate the 9 to 5 job, but it's the main source of my income**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
