@@ -1,7 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)
 
 <h1 align="center">Hi 👋, I'm Rahul Paul</h1>
-<h3 align="center">A passionate frontend developer from Kolkata,India</h3>
+<h3 align="center">A passionate frontend developer from Kolkata, India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nextrahul&label=Profile%20views&color=0e75b6&style=flat" alt="nextrahul" /> </p>
