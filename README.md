@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nextrahul&label=Profile%20views&color=0e75b6&style=flat" alt="nextrahul" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 Current Tech - Stack **MERN**
 
-- 💬 Ask me about **HTML, CSS, React.js, Node.js**
+- 💬 Ask me about **HTML, CSS, React.js, Node.js and Express.js**
 
 - 📫 How to reach me **rahulpaul0009@gmail.com**
 
